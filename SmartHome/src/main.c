@@ -1,8 +1,9 @@
 #include "Fan.h"
 int main(void) {
+	int x;
 	FanInit();
 	while(1){
-		FanControl();
+		
 	}
 	return 0;
 }
